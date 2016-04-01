@@ -1,0 +1,13 @@
+canvas{
+  border : 1px solid black ;
+}
+table{
+  color : white ;
+  background : black ;
+}
+th.satellite_variable, td.satellite_variable{
+  width : 120px ;
+  text-align : center ;
+  font : 8pt arial , sans-serif ;
+}
+div#div_hidden{ display : none ; }
